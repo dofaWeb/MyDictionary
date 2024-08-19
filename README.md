@@ -4,4 +4,4 @@
 * Add a word
 * Show out the list
 * Take a test
-![Dictionary-Home](https://github.com/dofaWeb/Dictionary/blob/main/images/dictionary_Home.png)
+![Dictionary-Home](https://github.com/dofaWeb/MyDictionary/blob/main/images/dictionary_Home.png)
