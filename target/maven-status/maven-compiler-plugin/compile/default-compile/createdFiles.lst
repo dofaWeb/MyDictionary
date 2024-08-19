@@ -1,0 +1,7 @@
+controller\DictionaryController.class
+controller\WordController.class
+model\Dictionary.class
+dao\DictionaryDAO.class
+controller\ListController.class
+controller\Nagivator.class
+db\DBConnection.class
